@@ -1,0 +1,33 @@
+.tabula, th, td {
+  width: 100%;
+  border: 1px solid black;
+  background-color: white;
+  border-collapse: collapse;
+}
+
+.dzest-button {
+  background-color: transparent;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.edit-button {
+  background-color: transparent;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.edit-button:hover {
+  background-color: green;
+  color: white;
+}
+
+.dzest-button:hover {
+  background-color: red;
+  color: white;
+}
+
+.tabula {
+  table-layout: fixed;
+  margin: 5px;
+}

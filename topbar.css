@@ -1,0 +1,27 @@
+.topbar {
+  background-color: white;
+  border-bottom: 1px solid silver;
+}
+
+.topbar-kreisa {
+  background-color: white;
+  float: left;
+}
+
+.topbar-laba  {
+  background-color: white;
+  float: right;
+}
+
+.pievienot-poga {
+  padding: 5px;
+  border-radius: 5px;
+  border-color: green;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.pievienot-poga:hover {
+  background-color: green;
+  color: white;
+}
